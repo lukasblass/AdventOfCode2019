@@ -1,0 +1,22 @@
+123
+132
+213
+231
+312
+321
+
+1: 
+1 2 3 4
+1 2 4 3
+1
+
+2 13
+2 31
+
+3 12
+3 21
+
+
+take number i = 1...n
+put i into first position
+append permutation for 1...n \ i 
